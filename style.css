@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fffacd;
+}
+
+h1{
+	font-family: serif;
+}
+
+#projects{
+	background-color: #FFFACD;
+}
+section{
+	padding-top: 3rem;
+}
+.Gallery-img{
+	width: 100%;
+}
+#Gallery .row > *{
+	padding: 0;
+}
